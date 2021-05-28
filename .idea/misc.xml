@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/compose-model-1621426218349.xml" value="1.3429602888086642" />
+        <entry key="../../../../layout/compose-model-1621426703310.xml" value="0.29011824324324326" />
+        <entry key="../../../../layout/compose-model-1621428857989.xml" value="0.67" />
+        <entry key="../../../../layout/compose-model-1621430433578.xml" value="2.0" />
+        <entry key="../../../../layout/compose-model-1621430437214.xml" value="0.5" />
+        <entry key="../../../../layout/compose-model-1621433393546.xml" value="0.16934121621621623" />
+        <entry key="../../../../layout/compose-model-1621434265745.xml" value="1.855595667870036" />
+        <entry key="../../../../layout/compose-model-1621436395644.xml" value="0.8185185185185185" />
+        <entry key="../../../../layout/compose-model-1621437897934.xml" value="0.5907407407407408" />
+        <entry key="../../../../layout/compose-model-1621439111799.xml" value="0.28969594594594594" />
+        <entry key="../../../../layout/compose-model-1621441062038.xml" value="0.8185185185185185" />
+        <entry key="../../../../layout/compose-model-1621441070541.xml" value="0.8185185185185185" />
+        <entry key="../../../../layout/compose-model-1621443503574.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1621444707100.xml" value="0.2799831081081081" />
+        <entry key="../../../../layout/compose-model-1621444713639.xml" value="2.0" />
+        <entry key="../../../../layout/compose-model-1621444796933.xml" value="0.8185185185185185" />
+        <entry key="../../../../layout/compose-model-1621444816969.xml" value="0.2799831081081081" />
+        <entry key="../../../../layout/compose-model-1621446290437.xml" value="0.8185185185185185" />
+        <entry key="../../../../layout/compose-model-1621621157973.xml" value="0.2808277027027027" />
+        <entry key="../../../../layout/compose-model-1621621773472.xml" value="0.2799831081081081" />
+        <entry key="../../../../layout/compose-model-1621622241435.xml" value="0.2799831081081081" />
+        <entry key="../../../../layout/compose-model-1621622245586.xml" value="0.2799831081081081" />
+        <entry key="../../../../layout/compose-model-1621622979247.xml" value="0.7101851851851851" />
+        <entry key="../../../../layout/compose-model-1621623639786.xml" value="0.7101851851851851" />
+        <entry key="../../../../layout/compose-model-1621627734092.xml" value="0.2799831081081081" />
+        <entry key="../../../../layout/compose-model-1621628665257.xml" value="0.2799831081081081" />
+        <entry key="../../../../layout/compose-model-1621628732208.xml" value="0.2799831081081081" />
+        <entry key="../../../../layout/compose-model-1621630588193.xml" value="0.16216216216216217" />
+        <entry key="../../../../layout/compose-model-1621630617345.xml" value="0.16216216216216217" />
+        <entry key="../../../../layout/compose-model-1621711376009.xml" value="0.2808277027027027" />
+        <entry key="../../../../layout/compose-model-1621711493242.xml" value="0.2808277027027027" />
+        <entry key="app/src/main/res/drawable-night/ic_bookmark.xml" value="0.3359375" />
+        <entry key="app/src/main/res/drawable-night/ic_bookmark_filled.xml" value="0.3359375" />
+        <entry key="app/src/main/res/drawable-night/ic_heart_outline.xml" value="0.3175925925925926" />
+        <entry key="app/src/main/res/drawable-night/ic_message.xml" value="0.3359375" />
+        <entry key="app/src/main/res/drawable-night/ic_send.xml" value="0.3359375" />
+        <entry key="app/src/main/res/drawable/ic_bookmark.xml" value="0.3359375" />
+        <entry key="app/src/main/res/drawable/ic_bookmark__1_.xml" value="0.3359375" />
+        <entry key="app/src/main/res/drawable/ic_bookmark_filled.xml" value="0.3359375" />
+        <entry key="app/src/main/res/drawable/ic_heart_filled.xml" value="0.3175925925925926" />
+        <entry key="app/src/main/res/drawable/ic_heart_outline.xml" value="0.3175925925925926" />
+        <entry key="app/src/main/res/drawable/ic_instagram_logo.xml" value="0.19791666666666666" />
+        <entry key="app/src/main/res/drawable/ic_instagram_logo_dark.xml" value="0.34205128205128205" />
+        <entry key="app/src/main/res/drawable/ic_instagram_logo_light.xml" value="0.34205128205128205" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.34205128205128205" />
+        <entry key="app/src/main/res/drawable/ic_message.xml" value="0.3359375" />
+        <entry key="app/src/main/res/drawable/ic_send.xml" value="0.3359375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
